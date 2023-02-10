@@ -1,4 +1,4 @@
-use metagm::types::{Vertex, MetaEdge};
+use metagm::types::{MetaEdge, Vertex};
 
 fn main() {
 
